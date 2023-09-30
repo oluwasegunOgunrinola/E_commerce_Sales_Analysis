@@ -3,7 +3,7 @@ The goal was to analyze the firm’s products and its customers in different reg
 
 ![](./Ecommerceheader.JPG)
 
-![](./Ecomercekpiheader.JPG)
+![](./ecommercekpiheader.JPG)
 
 As illustrated in the Ecommerce analysis, there is a varying trend of total sales and total profit trend for the year 2021 and 2022 across January to December. 
 There was almost an even distribution in total sales for 2021 with total sales being at the highest in January $1,967,191 and February being the lowest $1,782,137 whereas highest total sales was made in October for the year 2022 at $3,231,406 and lowest in December $1,389,280.
