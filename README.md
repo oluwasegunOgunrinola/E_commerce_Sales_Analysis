@@ -12,3 +12,4 @@ April had the highest profit $245,868 in the year 2021 and a high drop in Januar
 ![](./YTDheader.JPG)
 
 # Do view and download pbix. and pdf. file for full report, insights, and recommendations.
+
